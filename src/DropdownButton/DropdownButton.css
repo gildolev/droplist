@@ -1,0 +1,26 @@
+/* .button{
+    display:flex;
+} */
+button{
+    margin-left :3rem;
+    margin-top :3rem;
+    background: rgb(21 19 19);
+        width:13rem;
+    color:white;
+ 
+    height: 3rem;
+    font-size: 20px;
+    border:none;
+    border-radius: 5px;
+
+
+}
+
+button:focus{
+    border:3px lightgray solid;
+}
+img{
+    
+    color: white;
+    width: 20px;
+}
